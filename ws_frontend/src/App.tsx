@@ -36,6 +36,7 @@ function App() {
       {/* @ts-ignore */}
       <input ref={inputRef} type="text" placeholder="message... " className="border border-gray-400 p-[2px] rounded-md outline-none  focus:border-gray-300/80" />
       <button onClick={sendMessage}>Send</button>
+      <p className="mt-2 text-gray-400">type "ping" to get back alert from server</p>
     </div>
   )
 }
