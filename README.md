@@ -18,6 +18,13 @@ The project implements a simple **Ping → Pong** mechanism to showcase how real
 
 ---
 
+---
+
+## 📌 DISCLAIMER
+This is not actually working chat application, here just a message i will sent , i will receive thorgh alert to mee also as sockets sent to me and all other user, this learning type only
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
